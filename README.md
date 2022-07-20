@@ -25,8 +25,7 @@ returns current weather of entered city
 returns meaning of entered word
 
 #### Language translation
--> translate hello to ne  
-ne(nepali)  
+-> translate hello to ja 
 ja(japanese)  
 es(spainish)  
 etc  
@@ -37,8 +36,8 @@ returns translated text of hello
 returns details of corona virus  
 
 #### All conversion (units, currency)
--> convert 1 usd to npr  
--> convert 1 cal to joule  
+-> convert 1 usd to php
+-> convert 1 yen to pho  
 returns converted value  
 
 
