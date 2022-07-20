@@ -484,14 +484,14 @@ class ChatBot(Client):
             elif("crazy" in msg):
                 reply = "Anything wrong about that."
                 sendMsg()
-            elif ("are funny" in msg):
-                reply = "No. I am not. You are."
+            elif ("are u a robot" in msg):
+                reply = "No"
                 sendMsg()
             elif ("marry me" in msg):
-                reply = "Yes, if you are nice and kind girl. But if you are boy RIP."
+                reply = "Pass wala kapang ligo"
                 sendMsg()
-            elif ("you from" in msg):
-                reply = "I am from Nepal. Currently living in Kathmandu"
+            elif ("where you from" in msg):
+                reply = "Philippines"
                 sendMsg()
             elif ("you sure" in msg):
                 reply = "Yes. I'm sure."
@@ -527,7 +527,7 @@ class ChatBot(Client):
                 reply = "good night🌃🌙"
                 sendMsg()
             elif ("good night" in msg or msg == "gn"):
-                reply = "good night🌃🌙"
+                reply = "good night bakla"
                 sendMsg()
             elif ("hello" in msg):
                 reply = "Hi"
@@ -536,7 +536,7 @@ class ChatBot(Client):
                 reply = "Hi"
                 sendMsg()
             elif (msg == "hi"):
-                reply = "Hello! How can I help you?"
+                reply = "Hello! Putang ina mo"
                 sendMsg()
 
         except Exception as e:
@@ -654,11 +654,11 @@ class ChatBot(Client):
 
 
 cookies = {
-    "sb": "U_euYhV836VjSnkaR3bFftAe",
-    "fr": "0vPRjMEVeM22Xx7TL.AWVjOAXTxAg7PIcVcDqYDOjzXnU.Biwvtx.t1.AAA.0.0.Biwv0_.AWUT7oEi29c",
-    "c_user": "100050421425927",
-    "datr": "U_euYofUy0rm5uz95jDCeZWD",
-    "xs": "10%3AEB4YCalQ8RofPg%3A2%3A1656945984%3A-1%3A8096%3A%3AAcXNMqKsYwKsY9ckV9z--Rc73GIjLcVDVKjPiih-Ew"
+    "sb": "",
+    "fr": "",
+    "c_user": "",
+    "datr": "",
+    "xs": ""
 }
 
 
